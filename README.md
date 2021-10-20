@@ -13,13 +13,13 @@ Como atividade de contextualização, vocês irão desenvolver um programa clien
 
 - O programa servidor deverá processar os dados recebidos, e exibir:
 
-a) A quantidade de turmas
+  a) A quantidade de turmas
 
-b) O nome da turma com mais alunos
+  b) O nome da turma com mais alunos
 
-c) O ano da turma mais antiga
+  c) O ano da turma mais antiga
 
-d) A quantidade média de alunos por turma
+  d) A quantidade média de alunos por turma
 
 ## Como usar
 
