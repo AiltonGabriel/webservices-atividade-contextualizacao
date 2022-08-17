@@ -1,5 +1,5 @@
 # webservices-atividade-contextualizacao
-## _Ativida de contextualização Webservices_
+## _Web Services – Ativida de contextualização_
 
 Como atividade de contextualização, vocês irão desenvolver um programa cliente-servidor para cadastro de turmas:
 
